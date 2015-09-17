@@ -1,0 +1,5 @@
+2869 listening on 8080
+2869 request received,url => /testHtml 
+2869 request received,url => /resources/jquery.min.js 
+2869 request received,url => /resources/custom.js 
+2869 request received,url => /resources/jquery.min.map 
